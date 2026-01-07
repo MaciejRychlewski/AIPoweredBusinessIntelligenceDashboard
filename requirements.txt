@@ -1,0 +1,8 @@
+gradio
+google-generativeai
+selenium
+webdriver-manager
+beautifulsoup4
+trafilatura
+yfinance
+python-dotenv
